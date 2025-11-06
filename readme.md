@@ -1,14 +1,37 @@
 # Develop AI Agents in Azure
 
-The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building AI agents on Microsoft Azure.
+Welcome to my personalized version of the **Develop AI Agents in Azure** lab repository. This repo contains all the exercises from the official Microsoft Learn path, which I have personally completed. I've also added my own code implementations, enhancements, and notes based on hands-on experience.
 
-> **Note**: To complete the exercises, you'll need an Azure subscription in which you have sufficient permissions and quota to provision the necessary Azure resources and generative AI models. If you don't already have one, you can sign up for an [Azure account](https://azure.microsoft.com/free). There's a free trial option for new users that includes credits for the first 30 days.
+## About This Repository
 
-View the exercises in the [GitHub Pages site for this repo](https://go.microsoft.com/fwlink/?linkid=2310820).
+This repository is based on the official Microsoft Learn modules focused on building AI agents using Azure services. The original labs guide developers through:
 
-> **Note**: While you can complete these exercises on their own, they're designed to complement modules on [Microsoft Learn](https://learn.microsoft.com/training/paths/develop-ai-agents-on-azure/); in which you'll find a deeper dive into some of the underlying concepts on which these exercises are based.
+- Using Azure OpenAI and other cognitive services
+- Building intelligent agents with prompt engineering
+- Integrating AI capabilities into applications
+- Deploying and managing AI solutions in Azure
 
-## Reporting issues
+I’ve completed all the labs and included working code samples, customizations, and improvements to help others learn more effectively.
 
-If you encounter any problems in the exercises, please report them as **issues** in this repo.
+## What’s Included
 
+- ✅ All labs completed with working code
+- 🛠️ Custom implementations and enhancements
+- 💬 Comments and explanations added for clarity
+- 📁 Organized structure for easy navigation
+
+## Getting Started
+
+To run the code and exercises in this repo, you’ll need:
+
+- An active [Azure subscription](https://azure.microsoft.com/free) with sufficient quota for deployingto Azure OpenAI, Azure Functions, and other relevant services
+- Basic knowledge of Python, REST APIs, and Azure CLI or portal
+
+## Learn More
+
+These labs are designed to complement the official Microsoft Learn path:  
+🔗 [Develop AI Agents on Azure - Microsoft Learn](https://learn.microsoft.com/training/paths/develop-ai-agents-on-azure GitHub Pages:  
+🔗 [GitHub Pages Site](https://go.microsoft.com/fwlink/?linkid=2310820)
+
+
+If you find any bugs or have suggestions for improvement, feel free to open an issue in this repository. I’ll do my best to respond and update the content.
